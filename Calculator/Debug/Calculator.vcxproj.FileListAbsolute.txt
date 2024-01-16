@@ -1,0 +1,3 @@
+C:\Users\Kitara\Desktop\ME\Coding\C++\Calculator\Calculator\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\Kitara\Desktop\ME\Coding\C++\Calculator\Calculator\Debug\Calculator.UI.resources
+C:\Users\Kitara\Desktop\ME\Coding\C++\Calculator\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
